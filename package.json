@@ -1,11 +1,19 @@
 {
   "name": "@gietmanic/react-star-rating",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A simple and customizable star rating component for React",
   "type": "module",
   "main": "dist/index.js",
   "module": "dist/index.esm.js",
   "types": "dist/index.d.ts",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gietmanic/react-star-rating.git"
+  },
+  "bugs": {
+    "url": "https://github.com/gietmanic/react-star-rating/issues"
+  },
+  "homepage": "https://github.com/gietmanic/react-star-rating#readme",
   "scripts": {
     "build": "rollup -c rollup.config.mjs",
     "prepublishOnly": "npm run build"
