@@ -1,6 +1,6 @@
 # React Star Rating Component
 
-[![npm version](https://badge.fury.io/js/@gietmanic%2Freact-star-rating.svg)](https://www.npmjs.com/package/@gietmanic/react-star-rating)
+[![npm version](https://badge.fury.io/js/@gietmanic%2Freact-star-rating.svg)](https://badge.fury.io/js/@gietmanic%2Freact-star-rating)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![TypeScript](https://img.shields.io/badge/TypeScript-Ready-blue.svg)](https://www.typescriptlang.org/)
 
