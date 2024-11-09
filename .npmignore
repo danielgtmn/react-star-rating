@@ -1,0 +1,77 @@
+# Source files
+src/
+tests/
+__tests__/
+test/
+*.test.*
+*.spec.*
+
+# Configuration files
+.babelrc
+.eslintrc
+.prettierrc
+tsconfig.json
+rollup.config.js
+rollup.config.mjs
+jest.config.js
+jest.setup.js
+
+# Development files
+.editorconfig
+.gitignore
+.travis.yml
+.circleci/
+.github/
+.storybook/
+.vscode/
+.idea/
+
+# Documentation
+docs/
+examples/
+CONTRIBUTING.md
+CHANGELOG.md
+
+# Build tools
+webpack.config.js
+gulpfile.js
+.rollup.cache/
+
+# Misc
+.DS_Store
+*.log
+.env*
+
+# Development dependencies
+node_modules/
+
+# Source control
+.git/
+.gitignore
+.gitattributes
+
+# Coverage reports
+coverage/
+.nyc_output/
+
+# CI/CD
+.travis.yml
+.circleci/
+.github/
+
+# Development scripts
+scripts/
+
+# Images and assets not needed in the package
+assets/
+images/
+*.png
+*.jpg
+*.gif
+*.svg
+
+# Keep required files
+!dist/
+!LICENSE
+!README.md
+!package.json
