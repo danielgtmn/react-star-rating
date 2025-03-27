@@ -1,5 +1,5 @@
 {
-  "name": "@gietmanic/react-star-rating",
+  "name": "@danielgtmn/react-star-rating",
   "version": "0.0.2",
   "description": "A simple and customizable star rating component for React",
   "type": "module",
@@ -8,12 +8,12 @@
   "types": "dist/index.d.ts",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/gietmanic/react-star-rating.git"
+    "url": "git+https://github.com/danielgtmn/react-star-rating.git"
   },
   "bugs": {
-    "url": "https://github.com/gietmanic/react-star-rating/issues"
+    "url": "https://github.com/danielgtmn/react-star-rating/issues"
   },
-  "homepage": "https://github.com/gietmanic/react-star-rating#readme",
+  "homepage": "https://github.com/danielgtmn/react-star-rating#readme",
   "scripts": {
     "build": "rollup -c rollup.config.mjs",
     "prepublishOnly": "npm run build"
@@ -33,23 +33,23 @@
     "react-dom": ">=16.8.0"
   },
   "devDependencies": {
-    "@babel/core": "^7.26.0",
-    "@babel/preset-env": "^7.26.0",
-    "@babel/preset-react": "^7.25.9",
-    "@babel/preset-typescript": "^7.26.0",
+    "@babel/core": "^7.26.10",
+    "@babel/preset-env": "^7.26.9",
+    "@babel/preset-react": "^7.26.3",
+    "@babel/preset-typescript": "^7.27.0",
     "@rollup/plugin-babel": "^6.0.4",
     "@rollup/plugin-commonjs": "^25.0.8",
-    "@rollup/plugin-node-resolve": "^15.3.0",
+    "@rollup/plugin-node-resolve": "^15.3.1",
     "@rollup/plugin-typescript": "^11.1.6",
     "@testing-library/jest-dom": "^6.6.3",
-    "@testing-library/react": "^16.0.1",
-    "@testing-library/user-event": "^14.5.2",
-    "@types/react": "^18.3.12",
-    "@types/react-dom": "^18.3.1",
-    "rollup": "^4.25.0",
+    "@testing-library/react": "^16.2.0",
+    "@testing-library/user-event": "^14.6.1",
+    "@types/react": "^18.3.20",
+    "@types/react-dom": "^18.3.5",
+    "rollup": "^4.37.0",
     "rollup-plugin-peer-deps-external": "^2.2.4",
     "tslib": "^2.8.1",
-    "typescript": "^5.6.3"
+    "typescript": "^5.8.2"
   },
   "publishConfig": {
     "access": "public"

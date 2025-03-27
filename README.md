@@ -1,6 +1,6 @@
 # React Star Rating Component
 
-[![npm version](https://badge.fury.io/js/@gietmanic%2Freact-star-rating.svg)](https://badge.fury.io/js/@gietmanic%2Freact-star-rating)
+[![npm version](https://badge.fury.io/js/@danielgtmn%2Freact-star-rating.svg)](https://badge.fury.io/js/@danielgtmn%2Freact-star-rating)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![TypeScript](https://img.shields.io/badge/TypeScript-Ready-blue.svg)](https://www.typescriptlang.org/)
 
@@ -9,11 +9,11 @@ A simple, customizable, and accessible star rating component for React applicati
 ## 📦 Installation
 
 ```bash
-npm install @gietmanic/react-star-rating
+npm install @danielgtmn/react-star-rating
 # or
-yarn add @gietmanic/react-star-rating
+yarn add @danielgtmn/react-star-rating
 # or
-pnpm add @gietmanic/react-star-rating 
+pnpm add @danielgtmn/react-star-rating 
 ```
 
 ## ✨ Features
@@ -28,7 +28,7 @@ pnpm add @gietmanic/react-star-rating
 ## 🚀 Quick Start
 
 ```jsx
-import { StarRating } from '@gietmanic/react-star-rating';
+import { StarRating } from '@danielgtmn/react-star-rating';
 
 function App() {
   return (
@@ -121,5 +121,5 @@ Contributions are welcome!
 
 ## 📫 Support
 
-- Create a [GitHub issue](https://github.com/gietmanic/react-star-rating/issues) for bug reports and feature requests
-- Follow [@gietmanic](https://github.com/gietmanic) for announcements
+- Create a [GitHub issue](https://github.com/danielgtmn/react-star-rating/issues) for bug reports and feature requests
+- Follow [@danielgtmn](https://github.com/danielgtmn) for announcements
