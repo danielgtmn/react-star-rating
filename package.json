@@ -1,6 +1,6 @@
 {
   "name": "@danielgtmn/react-star-rating",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "A simple and customizable star rating component for React",
   "type": "module",
   "main": "dist/index.js",
